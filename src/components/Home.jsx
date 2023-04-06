@@ -8,7 +8,7 @@ import hoverProfile from "../assets/img/profilehover.webp";
 // import CVDoc from "../assets/download/CV.pdf";
 import Hi from "../assets/img/Hi.gif";
 
-import CV from "../assets/Aniket_bagul.pdf";
+import CV from "../assets/AniketBagul_resume.pdf";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 
 import "./Home.css";
@@ -40,7 +40,7 @@ function Home() {
             <br />
             <span className="name-hover">Bagul</span>
           </h2>
-          <a href={CV} download className="btn-download text-center">
+          <a href={CV} target="_blank" className="btn-download text-center">
             Download CV
           </a>
           {/* <AiFillFileText /> */}
