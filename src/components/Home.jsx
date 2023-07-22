@@ -8,7 +8,7 @@ import hoverProfile from "../assets/img/profilehover.webp";
 // import CVDoc from "../assets/download/CV.pdf";
 import Hi from "../assets/img/Hi.gif";
 
-import CV from "../assets/AniketBagul_resume.pdf";
+import CV from "../assets/Resume.pdf";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 
 import "./Home.css";
