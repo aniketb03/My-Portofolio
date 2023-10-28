@@ -36,7 +36,7 @@ function Project() {
                   </p>
                   <a
                     className="btn-website"
-                    href="https://movie-banner-app.netlify.app/"
+                    href="https://master--movie-banner-app.netlify.app/loginpp/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -71,7 +71,7 @@ function Project() {
                   </p>
                   <a
                     className="btn-website"
-                    href="https://visitblogit.netlify.app/"
+                    href="https://master--visitblogit.netlify.app/login"
                     target="_blank"
                     rel="noreferrer"
                   >
